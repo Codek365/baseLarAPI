@@ -1,0 +1,911 @@
+.web-top-mypage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.web-top-mypage .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 1312px;
+  position: relative;
+}
+
+.web-top-mypage .overlap {
+  position: absolute;
+  width: 1282px;
+  height: 377px;
+  top: 0;
+  left: -1px;
+}
+
+.web-top-mypage .element {
+  position: absolute;
+  width: 1282px;
+  height: 314px;
+  top: 63px;
+  left: 0;
+  background-color: #2e2e2e;
+}
+
+.web-top-mypage .main-graph {
+  position: absolute;
+  width: 589px;
+  height: 294px;
+  top: 76px;
+  left: 594px;
+  overflow: hidden;
+}
+
+.web-top-mypage .overlap-group {
+  position: relative;
+  width: 594px;
+  height: 282px;
+  left: -1px;
+}
+
+.web-top-mypage .element-2 {
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  top: 267px;
+  left: 367px;
+}
+
+.web-top-mypage .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .text-wrapper-2 {
+  position: absolute;
+  top: 2px;
+  left: 8px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .element-3 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 573px;
+}
+
+.web-top-mypage .text-wrapper-3 {
+  top: 2px;
+  left: 9px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .element-4 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 418px;
+}
+
+.web-top-mypage .element-5 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 0;
+}
+
+.web-top-mypage .element-6 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 155px;
+}
+
+.web-top-mypage .element-7 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 470px;
+}
+
+.web-top-mypage .element-8 {
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  top: 267px;
+  left: 53px;
+}
+
+.web-top-mypage .element-9 {
+  position: absolute;
+  width: 26px;
+  height: 15px;
+  top: 267px;
+  left: 204px;
+}
+
+.web-top-mypage .text-wrapper-4 {
+  top: 2px;
+  left: 14px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .element-10 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 521px;
+}
+
+.web-top-mypage .element-11 {
+  position: absolute;
+  width: 21px;
+  height: 15px;
+  top: 267px;
+  left: 103px;
+}
+
+.web-top-mypage .element-12 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  top: 267px;
+  left: 258px;
+}
+
+.web-top-mypage .text-wrapper-5 {
+  position: absolute;
+  top: 2px;
+  left: 13px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .element-13 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  top: 267px;
+  left: 311px;
+}
+
+.web-top-mypage .img {
+  position: absolute;
+  width: 573px;
+  height: 268px;
+  top: 0;
+  left: 8px;
+}
+
+.web-top-mypage .element-14 {
+  position: absolute;
+  width: 580px;
+  height: 154px;
+  top: 14px;
+  left: 5px;
+}
+
+.web-top-mypage .element-15 {
+  position: absolute;
+  width: 580px;
+  height: 228px;
+  top: 14px;
+  left: 5px;
+}
+
+.web-top-mypage .main-photo {
+  position: absolute;
+  width: 540px;
+  height: 312px;
+  top: 64px;
+  left: 1px;
+}
+
+.web-top-mypage .main-photo-text {
+  position: absolute;
+  width: 181px;
+  height: 181px;
+  top: 130px;
+  left: 181px;
+}
+
+.web-top-mypage .overlap-2 {
+  position: relative;
+  height: 181px;
+}
+
+.web-top-mypage .element-16 {
+  position: absolute;
+  width: 106px;
+  height: 30px;
+  top: 76px;
+  left: 39px;
+}
+
+.web-top-mypage .text-wrapper-6 {
+  top: 7px;
+  left: 0;
+  text-shadow: 0px 0px 6px #fc7400;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .text-wrapper-7 {
+  position: absolute;
+  top: 0;
+  left: 52px;
+  text-shadow: 0px 0px 6px #fca500;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .element-17 {
+  position: absolute;
+  width: 181px;
+  height: 181px;
+  top: 0;
+  left: 0;
+}
+
+.web-top-mypage .header {
+  position: absolute;
+  width: 1280px;
+  height: 64px;
+  top: 0;
+  left: 1px;
+  background-color: transparent;
+}
+
+.web-top-mypage .overlap-3 {
+  position: relative;
+  width: 1282px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #414141;
+  box-shadow: 0px 3px 6px #00000029;
+}
+
+.web-top-mypage .logo {
+  position: absolute;
+  width: 144px;
+  height: 64px;
+  top: 1px;
+  left: 161px;
+}
+
+.web-top-mypage .overlap-group-wrapper {
+  position: relative;
+  width: 109px;
+  height: 40px;
+  top: 16px;
+  left: 16px;
+  overflow: hidden;
+}
+
+.web-top-mypage .overlap-group-2 {
+  position: relative;
+  height: 40px;
+}
+
+.web-top-mypage .element-18 {
+  position: absolute;
+  width: 17px;
+  height: 19px;
+  top: 0;
+  left: 12px;
+}
+
+.web-top-mypage .element-19 {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 5px;
+  left: 30px;
+}
+
+.web-top-mypage .element-20 {
+  position: absolute;
+  width: 15px;
+  height: 14px;
+  top: 5px;
+  left: 46px;
+}
+
+.web-top-mypage .element-21 {
+  position: absolute;
+  width: 3px;
+  height: 19px;
+  top: 0;
+  left: 63px;
+  background-color: #ff963c;
+}
+
+.web-top-mypage .element-22 {
+  position: absolute;
+  width: 13px;
+  height: 19px;
+  top: 0;
+  left: 79px;
+}
+
+.web-top-mypage .element-23 {
+  position: absolute;
+  width: 10px;
+  height: 17px;
+  top: 2px;
+  left: 68px;
+}
+
+.web-top-mypage .element-24 {
+  position: absolute;
+  width: 109px;
+  height: 35px;
+  top: 5px;
+  left: 0;
+  object-fit: cover;
+}
+
+.web-top-mypage .icon-menu {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 17px;
+  left: 1089px;
+}
+
+.web-top-mypage .navi-memo {
+  position: absolute;
+  width: 160px;
+  height: 48px;
+  top: 9px;
+  left: 593px;
+}
+
+.web-top-mypage .icon-memo {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 8px;
+  left: 8px;
+}
+
+.web-top-mypage .text-wrapper-8 {
+  width: 96px;
+  top: 12px;
+  left: 48px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .navi-memo-2 {
+  left: 753px;
+  position: absolute;
+  width: 160px;
+  height: 48px;
+  top: 9px;
+}
+
+.web-top-mypage .div-wrapper {
+  position: relative;
+  width: 23px;
+  height: 30px;
+  top: 1px;
+  left: 4px;
+}
+
+.web-top-mypage .overlap-group-3 {
+  position: relative;
+  height: 30px;
+}
+
+.web-top-mypage .element-25 {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  top: 13px;
+  left: 6px;
+}
+
+.web-top-mypage .element-26 {
+  position: absolute;
+  width: 3px;
+  height: 1px;
+  top: 4px;
+  left: 10px;
+}
+
+.web-top-mypage .element-27 {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  top: 5px;
+  left: 6px;
+}
+
+.web-top-mypage .element-28 {
+  position: absolute;
+  width: 1px;
+  height: 3px;
+  top: 9px;
+  left: 5px;
+}
+
+.web-top-mypage .element-29 {
+  position: absolute;
+  width: 3px;
+  height: 1px;
+  top: 16px;
+  left: 10px;
+}
+
+.web-top-mypage .element-30 {
+  position: absolute;
+  width: 1px;
+  height: 3px;
+  top: 9px;
+  left: 17px;
+}
+
+.web-top-mypage .element-31 {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  top: 13px;
+  left: 15px;
+}
+
+.web-top-mypage .element-32 {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  top: 5px;
+  left: 15px;
+}
+
+.web-top-mypage .element-33 {
+  position: absolute;
+  width: 7px;
+  height: 6px;
+  top: 7px;
+  left: 8px;
+}
+
+.web-top-mypage .element-34 {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 0;
+  left: 1px;
+}
+
+.web-top-mypage .element-35 {
+  position: absolute;
+  width: 10px;
+  height: 11px;
+  top: 19px;
+  left: 0;
+}
+
+.web-top-mypage .element-36 {
+  position: absolute;
+  width: 10px;
+  height: 11px;
+  top: 19px;
+  left: 13px;
+}
+
+.web-top-mypage .navi-memo-3 {
+  left: 913px;
+  position: absolute;
+  width: 160px;
+  height: 48px;
+  top: 9px;
+}
+
+.web-top-mypage .overlap-4 {
+  position: absolute;
+  width: 40px;
+  height: 32px;
+  top: 8px;
+  left: 8px;
+}
+
+.web-top-mypage .icon-info {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 0;
+}
+
+.web-top-mypage .element-37 {
+  position: absolute;
+  width: 25px;
+  height: 28px;
+  top: 3px;
+  left: 4px;
+}
+
+.web-top-mypage .info-count {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  left: 24px;
+}
+
+.web-top-mypage .element-clipping-group-wrapper {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  top: -1px;
+  left: -1px;
+  background-color: #ea6c00;
+  border-radius: 9px;
+}
+
+.web-top-mypage .element-clipping-group {
+  position: relative;
+  width: 16px;
+  height: 14px;
+  top: 3px;
+  left: 1px;
+}
+
+.web-top-mypage .text-wrapper-9 {
+  position: absolute;
+  width: 16px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 12px;
+}
+
+.web-top-mypage .component-hex {
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  top: 400px;
+  left: 272px;
+}
+
+.web-top-mypage .overlap-5 {
+  position: relative;
+  width: 116px;
+  height: 134px;
+  top: 1px;
+  left: 10px;
+  background-image: url(./img/48-3.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.web-top-mypage .text-wrapper-10 {
+  position: absolute;
+  top: 83px;
+  left: 19px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .icon-knife {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  top: 27px;
+  left: 30px;
+}
+
+.web-top-mypage .overlap-wrapper {
+  left: 472px;
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  top: 400px;
+}
+
+.web-top-mypage .overlap-6 {
+  position: relative;
+  width: 116px;
+  height: 134px;
+  top: 1px;
+  left: 10px;
+  background-image: url(./img/48-2.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.web-top-mypage .text-wrapper-11 {
+  left: 29px;
+  position: absolute;
+  top: 83px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .component-hex-2 {
+  left: 672px;
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  top: 400px;
+}
+
+.web-top-mypage .overlap-7 {
+  position: relative;
+  width: 116px;
+  height: 134px;
+  top: 1px;
+  left: 10px;
+  background-image: url(./img/48-1.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.web-top-mypage .morning {
+  left: 27px;
+  position: absolute;
+  top: 83px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.web-top-mypage .component-hex-3 {
+  left: 872px;
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  top: 400px;
+}
+
+.web-top-mypage .overlap-8 {
+  position: relative;
+  width: 116px;
+  height: 134px;
+  top: 1px;
+  left: 10px;
+  background-image: url(./img/48.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.web-top-mypage .icon-cup {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  top: 31px;
+  left: 30px;
+}
+
+.web-top-mypage .element-38 {
+  position: relative;
+  width: 34px;
+  height: 40px;
+  top: 8px;
+  left: 11px;
+  background-image: url(./img/coffee-15.svg);
+  background-size: 100% 100%;
+}
+
+.web-top-mypage .element-39 {
+  position: absolute;
+  width: 960px;
+  height: 476px;
+  top: 560px;
+  left: 160px;
+}
+
+.web-top-mypage .footer {
+  position: absolute;
+  width: 1280px;
+  height: 128px;
+  top: 1184px;
+  left: 0;
+  background-color: transparent;
+}
+
+.web-top-mypage .overlap-9 {
+  position: relative;
+  width: 1282px;
+  height: 130px;
+  top: -1px;
+  left: -1px;
+  background-color: #414141;
+}
+
+.web-top-mypage .text-wrapper-12 {
+  top: 57px;
+  left: 161px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 11px;
+  letter-spacing: 0.03px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .text-wrapper-13 {
+  top: 57px;
+  left: 251px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 11px;
+  letter-spacing: 0.03px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .text-wrapper-14 {
+  top: 57px;
+  left: 341px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 11px;
+  letter-spacing: 0.03px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .text-wrapper-15 {
+  top: 57px;
+  left: 430px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 11px;
+  letter-spacing: 0.03px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .text-wrapper-16 {
+  top: 57px;
+  left: 597px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 11px;
+  letter-spacing: 0.03px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .text-wrapper-17 {
+  top: 57px;
+  left: 775px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 11px;
+  letter-spacing: 0.03px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .component-btn {
+  position: absolute;
+  width: 296px;
+  height: 56px;
+  top: 1064px;
+  left: 492px;
+  background-image: url(./img/88-1.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.web-top-mypage .text-wrapper-18 {
+  width: 288px;
+  top: 14px;
+  left: 4px;
+  font-family: "Hiragino Kaku Gothic Pro-W3", Helvetica;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web-top-mypage .component-scroll {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 736px;
+  left: 1136px;
+}
